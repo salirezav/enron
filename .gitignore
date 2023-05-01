@@ -1,4 +1,5 @@
-./emails/*
-./out/*
+emails
+out
 .vscode/settings.json
 .gitignore
+dataset.csv
