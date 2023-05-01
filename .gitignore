@@ -1,2 +1,4 @@
 ./emails/*
 ./out/*
+.vscode/settings.json
+.gitignore
